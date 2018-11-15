@@ -3,15 +3,15 @@
 ### This Repo Contains:
 
 1. Subreddit to CSV
-    -This notebook covers the scrapping Reddits through their API and saving the data to a CSV
+    - This notebook covers the scrapping Reddits through their API and saving the data to a CSV
 2. Reddit Prediction Project
-    -This notebook covers classifying the first pair of subreddits that are unrelated to each other
+    - This notebook covers classifying the first pair of subreddits that are unrelated to each other
 3. Other Reddit Predictions
-    -This notebook covers classifying the second pair of subreddits where the two cover the same topic
+    - This notebook covers classifying the second pair of subreddits where the two cover the same topic
 4. Other Reddit Predictions 2
-    -This notebook covers classifying the third pair of subreddits where one subreddit is a subcategory of the other subreddit
+    - This notebook covers classifying the third pair of subreddits where one subreddit is a subcategory of the other subreddit
 5. Data
-    -The required CSVs to run the code
+    - The required CSVs to run the code
     
 
 ## Executive Summary
